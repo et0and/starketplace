@@ -34,11 +34,11 @@ export default function Footer({className, style}:FooterProps) {
                             Privacy Policy
                         </div>
                     </Link>
-                    <Link to="/tos">
+                    <a href="https://instagram.com/tewahiauaha">
                         <div className="toolbar-link">
-                            Terms of Service
+                            Instagram
                         </div>
-                    </Link>
+                    </a>
 
                 </nav>
             </div>
