@@ -187,6 +187,9 @@ const App = () => {
           <Route path="/disclaimer">
             <Disclaimer />
           </Route>
+          <Route path="/exhibition">
+            <Disclaimer />
+          </Route>
           <Route path="/tos">
             <Tos />
           </Route>

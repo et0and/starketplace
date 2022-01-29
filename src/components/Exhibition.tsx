@@ -7,7 +7,8 @@ export default function Exhibition() {
             <HomeHeader />
 
             <section className="layout">
-                <div className="measure hero-text">
+                <div className="measure">
+
                 <p>Te Wāhi Auaha (literally 'the making space') is a makerspace at Takapuna Grammar School, Tāmaki Makaurau.
                 </p><p>Open to students and staff, the vision of Te Wāhi is to utilise new emerging technologies across different subject areas.</p>
 
