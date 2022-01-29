@@ -148,7 +148,7 @@ export default function Home() {
                         </h2>
                         <p>Use our online portal to submit files for printing or lasercutting, or organise a time to meet about your project.
                         </p>
-                        <a href="https://make.tewahi.com" rel="noreferrer" className="inline-block mt-1 button-sm button-bg-black">Submit a file</a>
+                        <Link to="/make" rel="noreferrer" className="inline-block mt-1 button-sm button-bg-black">Submit a file</Link>
                     </div>
                     <div style={{
                         backgroundImage:"url('/assets/make.jpg')",
