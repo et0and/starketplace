@@ -42,9 +42,9 @@ export default function Footer({className, style}:FooterProps) {
                         </div>
                     </Link>
 
-//                    <a href="https://github.com/urbit/starketplace/issues/new?assignees=&labels=&template=bug_report.md&title=" target="_blank" rel="noreferrer"className="toolbar-link">
-//                        Bug Reports
-//                    </a>
+                  <a href="https://github.com/urbit/starketplace/issues/new?assignees=&labels=&template=bug_report.md&title=" target="_blank" rel="noreferrer"className="toolbar-link">
+                       Bug Reports
+                    </a>
 
                 </nav>
             </div>
