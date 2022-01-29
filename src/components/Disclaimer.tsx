@@ -53,7 +53,7 @@ For compliance purposes,  as may be required by applicable laws and regulations 
 
 <h4>How we share the information we collect</h4>
 
-<p>We do not share or otherwise disclose information we collect from or about you except as described below or otherwise disclosed to you at the time of the collection.</p>>
+<p>We do not share or otherwise disclose information we collect from or about you except as described below or otherwise disclosed to you at the time of the collection.</p>
 
 <p>Analytics Partners. We use analytics services such as Google Analytics to collect and process certain analytics data. These services may also collect information regarding your use of other websites, apps, and online resources. You can learn about Google's practices by going to https://www.google.com/policies/privacy/partners/, and opt out of them by downloading the Google Analytics opt-out browser add-on, available at https://tools.google.com/dlpage/gaoptout.<br />
 
