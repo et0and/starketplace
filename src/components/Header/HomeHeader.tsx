@@ -7,14 +7,14 @@ export default function HomeHeader() {
             <div className="innerCol">
                 <Link to="/" className="pill-button bg-gray">
                     <Logo />
-                    <span className="ml-0.5em">Star Market</span>
+                    <span className="ml-0.5em">Te Wāhi Auaha</span>
                 </Link>
                 <nav>
                     <Link to="/about" className='pill-button'>
                         About
                     </Link>
-                    <Link to="/app" className="pill-button bg-yellow ml-0.5em">
-                        Launch App
+                    <Link to="https://learn.tewahi.com" className="pill-button bg-yellow ml-0.5em">
+                        Launch Docs
                     </Link>
                 </nav>
             </div>

@@ -67,9 +67,13 @@ export default function Home() {
                 <div className="hero-rect" style={{backgroundImage: "url('/assets/hero.jpg')"}}>
                     <Logo className="logo" />
                     <div className="inner-text measure-narrow">
-                        <p>Star Market is the only place to swap your Urbit star for a WSTR.
+                        <p>Te Wāhi Auaha is a makerspace based at Takapuna Grammar School, Tāmaki Makaurau.
 </p>
-                        <p>Star Market is a community driven project audited by Urbit.</p>
+                        <p>Open to students and staff, the vision of Te Wāhi is to utilise new emerging technologies across different subject areas.</p>
+
+                        <p>It's an open space with facilities for 3D printing, laser cutting, augmented reality, digital modeling and animation.</p>
+
+                        <p>Nau mai, haere mai. Welcome to Te Wāhi.</p>
 
                     </div>
                 </div>
@@ -78,13 +82,13 @@ export default function Home() {
             <section className="layout">
                 <div className="flex justify-between">
                     <div className="measure mr-1em">
-                        <h3 className="gray-title">What is Urbit ID?</h3>
+                        <h3 className="gray-title">Tool guides</h3>
                         <h2>
-                            A key to a new digital world
+                            Guides to the things we use
                         </h2>
-                        <p>Urbit ID is a decentralized addressing system and public key infrastructure designed for Urbit OS. It is a unique number, a username, an avatar, a piece of a collectively owned network, and a key to a new digital world. Sort of like DNS, IP and a username system combined into one thing. Each Urbit ID is an ERC-721 NFT on the Ethereum blockchain.
+                        <p>Te Wāhi uses many different kinds of free and open source software that can be run on multiple platforms. Jump in to get learning about these tools and use them yourself.
                         </p>
-                            <a rel="noreferrer" target="_blank" href="https://urbit.org/understanding-urbit/urbit-id" className="inline-block mt-1 button-sm button-bg-black">Learn More about Urbit ID</a>
+                            <a rel="noreferrer" target="_blank" href="https://learn.tewahi.com" className="inline-block mt-1 button-sm button-bg-black">Learn More about tools</a>
                     </div>
                     <div style={{
                         backgroundImage:"url('/assets/sigil-grid.png')",
@@ -101,14 +105,14 @@ export default function Home() {
             <section className="layout">
                 <div className="flex justify-between">
                     <div className="measure mr-1em">
-                        <h3 className="gray-title">What is a star?</h3>
+                        <h3 className="gray-title">Project ideas</h3>
                         <h2>
-                            Infrastructure for businesses and communities
+                            Some projects to help get you started
                         </h2>
-                        <p>There are 5 different types of Urbit IDs. A star is an infrastructure node and, as such, is for businesses, communities, or metropolises. Stars spawn and sponsor planets, perform peer routing, provide services, and swap for WSTR. There are 2^16 (~65K) stars and each can sponsor ~65K planets.
+                        <p>Get started right away with a template project that you can freely customise to your liking. They can be made as simple or complex as you like, and provide a great starting point for learning about the different tools we have available.
                        
                         </p>
-                            <a rel="noreferrer" target="_blank" href="https://operators.urbit.org/guides/running-a-star" className="inline-block mt-1 button-sm button-bg-black">Star & Galaxy Guides</a>
+                            <a rel="noreferrer" target="_blank" href="https://learn.tewahi.com/projects" className="inline-block mt-1 button-sm button-bg-black">Learn More about projects</a>
                     </div>
                     <div style={{
                         backgroundImage:"url('/assets/floaty-sigil.png')",
@@ -123,44 +127,15 @@ export default function Home() {
             </section>
 
             <section className="layout">
-                <div className="measure">
-                    <h3 className="gray-title">Get Urbit Stars</h3>
-                    <h2>
-                        Stars are available from a variety of marketplaces
-                    </h2>
-
-                    <ul>
-                        <BubbleLink
-                            href="https://opensea.io/assets/urbit-id"
-                            title="OpenSea"
-                            caption="A large, general NFT marketplace"
-                        >
-                            <img alt="opensea logo" className="bubble" src="https://opensea.io/static/images/logos/opensea.svg" />
-                        </BubbleLink>
-
-                        <BubbleLink
-                            href="web+urbitgraph://group/~tirrel/the-marketplace"
-                            className="mt-2"
-                            title="The Marketplace"
-                            caption="An Urbit group for trading address space"
-                        >
-                            <img alt="the marketplace logo" className="bubble" src="/assets/the-marketplace-logo.png" />
-                        </BubbleLink>
-                    </ul>
-                       
-                </div>
-            </section>
-
-            <section className="layout">
                 <div className="flex justify-between">
                     <div className="measure mr-1em">
-                        <h3 className="gray-title">What is a WSTR?</h3>
+                        <h3 className="gray-title">Online exhibition</h3>
                         <h2>
-                            1 WSTR = 1 star
+                            A virtual showcase of art made at Te Wāhi and Takapuna Grammar School
                         </h2>
-                        <p>Urbit Wrapped Star (WSTR) is an ERC-20 token that represents one Urbit star which is an ERC-721 token. Through Star Market, one star can be converted to one wrapped star, and vice-versa. The stars redeemed by a wrapped star are doled out on a last-in-first-out basis.
+                        <p>Explore past and present virtual exhibitions hosted by Te Wāhi, or learn more about any upcoming events you can participate in.
                         </p>
-                        <a href="https://star.market/about" rel="noreferrer" className="inline-block mt-1 button-sm button-bg-black">About WSTR</a>
+                        <a href="https://exhibition.tewahi.com" rel="noreferrer" className="inline-block mt-1 button-sm button-bg-black">Learn More about exhibitions</a>
                     </div>
                     <div style={{
                         backgroundImage:"url('/assets/network-graph.png')",
@@ -175,54 +150,28 @@ export default function Home() {
             </section>
 
             <section className="layout">
-                <div className="measure">
-                    <h3 className="gray-title">Get WSTR</h3>
-                    <h2>
-                        Trade WSTR on a variety of distributed exchanges
-                    </h2>
-                    <ul>
-                        <BubbleLink
-                            href="https://info.uniswap.org/#/pools/0x7f4a0822a6e3c085df795a8d78acbcd36f210ebf"
-                            title="Uniswap V3"
-                            caption="A decentralized finance protocol"
-                        >
-                            <img 
-                            alt="uniswap logo"
-                            className="bubble" src="/assets/uniswap-logo.png" />
-                        </BubbleLink>
-                     
-                     
-                    <p>More Coming Soon</p>
-
-
-
-                        {/* <BubbleLink
-                            href="https://sushi.com/"
-                            className="mt-2"
-                            title="Sushi"
-                            caption="A decentralized finance protocol"
-                        >
-                            <img 
-                            alt="sushi swap logo"
-                            className="bubble" src="/assets/sushi-logo.png" />
-
-                        </BubbleLink>
-
-                        <BubbleLink
-                            href="https://matcha.xyz/"
-                            className="mt-2"
-                            title="Matcha"
-                            caption="Matcha finds you the best prices across exchanges and combines them into one trade."
-                        >
-                            <img 
-                            alt="urbit.live logo"
-                            className="bubble" src="/assets/matcha-logo.png" />
-
-                        </BubbleLink> */}
-                    </ul>
-                       
+                <div className="flex justify-between">
+                    <div className="measure mr-1em">
+                        <h3 className="gray-title">Make something</h3>
+                        <h2>
+                            Submit a file or two and get something made
+                        </h2>
+                        <p>Use our online portal to submit files for printing or lasercutting, or organise a time to meet about your project.
+                        </p>
+                        <a href="https://make.tewahi.com" rel="noreferrer" className="inline-block mt-1 button-sm button-bg-black">Submit a file</a>
+                    </div>
+                    <div style={{
+                        backgroundImage:"url('/assets/network-graph.png')",
+                        backgroundSize:"cover",
+                        backgroundPosition:"center",
+                        width: '300px',
+                        height: '300px',
+                        marginTop:'1em'
+                    }}
+                    className="home-section-img ml-1em" />
                 </div>
             </section>
+
             <Footer className="footer-home"/>
         </div>
     )
