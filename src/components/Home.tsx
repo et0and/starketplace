@@ -88,7 +88,7 @@ export default function Home() {
                             <a rel="noreferrer" target="_blank" href="https://learn.tewahi.com" className="inline-block mt-1 button-sm button-bg-black">Learn More about tools</a>
                     </div>
                     <div style={{
-                        backgroundImage:"url('/assets/sigil-grid.png')",
+                        backgroundImage:"url('/assets/printer.jpg')",
                         backgroundSize:"cover",
                         backgroundPosition:"center",
                         width: '300px',
@@ -112,7 +112,7 @@ export default function Home() {
                             <a rel="noreferrer" target="_blank" href="https://learn.tewahi.com/projects" className="inline-block mt-1 button-sm button-bg-black">Learn More about projects</a>
                     </div>
                     <div style={{
-                        backgroundImage:"url('/assets/floaty-sigil.png')",
+                        backgroundImage:"url('/assets/projects.jpg')",
                         backgroundSize:"cover",
                         backgroundPosition:"center",
                         width: '300px',
@@ -135,7 +135,7 @@ export default function Home() {
                         <a href="https://exhibition.tewahi.com" rel="noreferrer" className="inline-block mt-1 button-sm button-bg-black">Learn More about exhibitions</a>
                     </div>
                     <div style={{
-                        backgroundImage:"url('/assets/network-graph.png')",
+                        backgroundImage:"url('/assets/exhibition.jpg')",
                         backgroundSize:"cover",
                         backgroundPosition:"center",
                         width: '300px',
@@ -158,7 +158,7 @@ export default function Home() {
                         <a href="https://make.tewahi.com" rel="noreferrer" className="inline-block mt-1 button-sm button-bg-black">Submit a file</a>
                     </div>
                     <div style={{
-                        backgroundImage:"url('/assets/network-graph.png')",
+                        backgroundImage:"url('/assets/make.jpg')",
                         backgroundSize:"cover",
                         backgroundPosition:"center",
                         width: '300px',
