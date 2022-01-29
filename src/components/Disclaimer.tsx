@@ -30,11 +30,11 @@ export default function Disclaimer() {
 
 When you use or interact with our Services, certain information is automatically collected and logged. We collect information automatically when you:</p>
 
-<p>visit, interact with, or use Te Wāhi Auaha online, Te Wāhi Learn or other Offerings (including when you use your computer or other device to interact with Te Wāhi);<br />
-open emails or click on links in emails from us; and interact or communicate with us (such as when you visit us in person or when you request support via email). Here are some types of information we automatically collect:<br />
-Log Data. When you visit, interact with, or use our Services, our servers record information automatically sent by your browser or device (“log data”). This log data includes your Internet Protocol address, browser type and settings, the data and time of your interactions, how you used our Services, cookie data, device data, occurrences of technical errors, diagnostic reports, your settings preferences, backup information, and API calls.<br />
-Device Information. We receive information about the device and software you use to access our websites, including IP address, unique device identifier, web browser type and version, device model, and operating system version. We may infer your location based on your IP address.<br />
-Clickstream Data. To help us understand how you use our Services and to help us improve them, if you let us, we automatically receive information about your interactions with the Services, like the full Uniform Resource Locators (URL) clickstream to, through, and from our website, pages or other content you viewed or searched for, the dates and times of your visits. Page response times, download erros, and page interaction information (such as scrolling, clicks, and mouse-overs)<br />
+<p>Visit, interact with, or use Te Wāhi Auaha online, Te Wāhi Learn or other Offerings (including when you use your computer or other device to interact with Te Wāhi);<br /><br />
+Open emails or click on links in emails from us; and interact or communicate with us (such as when you visit us in person or when you request support via email). Here are some types of information we automatically collect:<br /><br />
+Log Data. When you visit, interact with, or use our Services, our servers record information automatically sent by your browser or device (“log data”). This log data includes your Internet Protocol address, browser type and settings, the data and time of your interactions, how you used our Services, cookie data, device data, occurrences of technical errors, diagnostic reports, your settings preferences, backup information, and API calls.<br /><br />
+Device Information. We receive information about the device and software you use to access our websites, including IP address, unique device identifier, web browser type and version, device model, and operating system version. We may infer your location based on your IP address.<br /><br />
+Clickstream Data. To help us understand how you use our Services and to help us improve them, if you let us, we automatically receive information about your interactions with the Services, like the full Uniform Resource Locators (URL) clickstream to, through, and from our website, pages or other content you viewed or searched for, the dates and times of your visits. Page response times, download erros, and page interaction information (such as scrolling, clicks, and mouse-overs)<br /><br />
 Information from Cookies and Similar Technologies. On our websites, we and third party partners collect information using cookies, or similar technologies. Our third party partners, such as analytics partners like Google Analytics, may use these technologies to collect information about your online activities over time and across different online services. Cookies are small text files containing a string of alphanumeric characters. We may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to our website. Please review your web browser 'Help' file to learn the proper way to modify your cookie settings. In particular, please visit https://policies.google.com/technologies/partner-sites to learn more about how Google uses data.
 </p>
 
@@ -42,12 +42,12 @@ Information from Cookies and Similar Technologies. On our websites, we and third
 
 <p>We use the information we collect to provide our Services to you, to improve your experience, to comply with our obligations and to keep you safe. We have a legitimate interest to collect and use your information in these ways, including to:</p>
 
-<p>Identify you or your device when you use the Service<br />
-To improve and enhance our Services and develop new products, services, features, and functionality;<br />
-To understand and analyze how you use our Services<br />
-Respond to your questions or comments when you reach out to us;<br />
-To find and prevent fraud;<br />
-To respond to trust and safety issues that may arise; and<br />
+<p>Identify you or your device when you use the Service<br /><br />
+To improve and enhance our Services and develop new products, services, features, and functionality;<br /><br />
+To understand and analyze how you use our Services<br /><br />
+Respond to your questions or comments when you reach out to us;<br /><br />
+To find and prevent fraud;<br /><br />
+To respond to trust and safety issues that may arise; and<br /><br />
 For compliance purposes,  as may be required by applicable laws and regulations or requested by any judicial process or governmental agency.<br />
 </p>
 
@@ -55,9 +55,11 @@ For compliance purposes,  as may be required by applicable laws and regulations 
 
 <p>We do not share or otherwise disclose information we collect from or about you except as described below or otherwise disclosed to you at the time of the collection.</p>
 
-<p>Analytics Partners. We use analytics services such as Google Analytics to collect and process certain analytics data. These services may also collect information regarding your use of other websites, apps, and online resources. You can learn about Google's practices by going to https://www.google.com/policies/privacy/partners/, and opt out of them by downloading the Google Analytics opt-out browser add-on, available at https://tools.google.com/dlpage/gaoptout.<br />
+<p>Analytics Partners. <br />
+We use analytics services such as Google Analytics to collect and process certain analytics data. These services may also collect information regarding your use of other websites, apps, and online resources. You can learn about Google's practices by going to https://www.google.com/policies/privacy/partners/, and opt out of them by downloading the Google Analytics opt-out browser add-on, available at https://tools.google.com/dlpage/gaoptout.<br /><br />
 
-As Required By Law and Similar Disclosures. We may access, preserve, and disclose your information if we believe doing so is required or appropriate to (a) comply with law enforcement requests and legal process, such as a court order or subpoena; (b) respond to your requests; or (c) protect your, our or others' rights, property, or safety. For the avoidance of doubt, the disclosure of your information may occur if you post any objectionable content on or through the Service.</p>
+As Required By Law and Similar Disclosures. <br />
+We may access, preserve, and disclose your information if we believe doing so is required or appropriate to (a) comply with law enforcement requests and legal process, such as a court order or subpoena; (b) respond to your requests; or (c) protect your, our or others' rights, property, or safety. For the avoidance of doubt, the disclosure of your information may occur if you post any objectionable content on or through the Service.</p>
 
 <h4>Third parties</h4>
 
