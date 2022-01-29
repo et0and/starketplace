@@ -64,14 +64,7 @@ export default function Home() {
             <section className="layout">
                 <div className="hero-rect" style={{backgroundImage: "url('/assets/hero.png')"}}>
                     <div className="inner-text measure-narrow">
-                        <p>Te Wāhi Auaha is a makerspace based at Takapuna Grammar School, Tāmaki Makaurau.
-</p>
-                        <p>Open to students and staff, the vision of Te Wāhi is to utilise new emerging technologies across different subject areas.</p>
-
-                        <p>It's an open space with facilities for 3D printing, laser cutting, augmented reality, digital modeling and animation.</p>
-
-                        <p>Nau mai, haere mai. Welcome to Te Wāhi.</p>
-
+                        <p>Te Wāhi Auaha is a makerspace based at Takapuna Grammar School, Tāmaki Makaurau.</p>
                     </div>
                 </div>
             </section>
