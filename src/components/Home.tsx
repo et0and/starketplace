@@ -148,7 +148,7 @@ export default function Home() {
                         </h2>
                         <p>Use our online portal to submit files for printing or lasercutting, or organise a time to meet about your project.
                         </p>
-                        <Link to="/make" rel="noreferrer" className="inline-block mt-1 button-sm button-bg-black">Submit a file</Link>
+                        <a href="https://airtable.com/embed/shr4vQsrJ4hCqmd4K" rel="noreferrer" className="inline-block mt-1 button-sm button-bg-black">Submit a file</a>
                     </div>
                     <div style={{
                         backgroundImage:"url('/assets/make.jpg')",
