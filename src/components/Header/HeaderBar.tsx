@@ -23,7 +23,7 @@ export default function HeaderBar (props: WalletDisplayProps) {
           <div className="innerCol">
               <div className="flex">
                 <Link to="/" className="pill-button bg-gray">
-                  <span className="ml-0.5em">Te Wāhi Auaha</span>
+                  <span className="ml-0.5em">Te Wāhi Auaha </span>
                 </Link>
                 <DropdownMenu.Root onOpenChange={(isOpen) => setModal(isOpen)} modal={true}>
                   <DropdownMenu.Trigger className="bg-yellow pill-button ml-0.5em">

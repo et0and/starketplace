@@ -5,7 +5,7 @@ export default function HomeHeader() {
         <header className="homeHeader">
             <div className="innerCol">
                 <Link to="/" className="pill-button bg-gray">
-                    <span className="ml-0.5em">Te Wāhi Auaha</span>
+                    <span className="ml-0.5em">Te Wāhi Auaha </span>
                 </Link>
                 <nav>
                     <Link to="/about" className='pill-button'>
