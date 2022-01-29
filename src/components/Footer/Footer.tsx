@@ -1,5 +1,4 @@
 import { Link } from 'react-router-dom';
-import Logo from '../Icons/Logo';
 
 import './Footer.scss'
 
@@ -14,7 +13,6 @@ export default function Footer({className, style}:FooterProps) {
             <div className="innerCol">
                 <Link to="/">
                     <div className="toolbar-link">
-                        <Logo />
                         <p className=" ml-0.5em">
                             Te Wāhi Auaha
                         </p>
@@ -22,10 +20,14 @@ export default function Footer({className, style}:FooterProps) {
                 </Link>
                 <nav>
                     <a href="https://takapuna.school.nz">
+                    <div className="toolbar-link">
                             Takapuna Grammar School
+                    </div>
                     </a>
                     <a href="mailto:t.hackshaw@tgs.school.nz">
+                    <div className="toolbar-link">
                             Contact
+                    </div>
                     </a>
                     <Link to="/disclaimer">
                         <div className="toolbar-link">
@@ -37,10 +39,6 @@ export default function Footer({className, style}:FooterProps) {
                             Terms of Service
                         </div>
                     </Link>
-
-                  <a href="https://github.com/urbit/starketplace/issues/new?assignees=&labels=&template=bug_report.md&title=" target="_blank" rel="noreferrer"className="toolbar-link">
-                       Bug Reports
-                    </a>
 
                 </nav>
             </div>
