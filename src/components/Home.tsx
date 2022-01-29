@@ -125,7 +125,7 @@ export default function Home() {
                         </h2>
                         <p>Explore past and present virtual exhibitions hosted by Te Wāhi, or learn more about any upcoming events you can participate in.
                         </p>
-                        <a href="/exhibition" className='inline-block mt-1 button-sm button-bg-black'>
+                        <a href="/" className='inline-block mt-1 button-sm button-bg-black'>
                         Learn More about exhibitions
                         </a>
                     </div>
