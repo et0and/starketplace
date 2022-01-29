@@ -4,7 +4,6 @@ import * as DropdownMenu from '@radix-ui/react-dropdown-menu';
 import { Text, Paragraph } from '@tlon/indigo-react'
 
 import { useStore } from '../../store'
-import Logo from '../Icons/Logo';
 import WalletDisplay, { WalletDisplayProps } from './WalletDisplay'
 import { formatComma } from '../../utils/text';
 
@@ -24,7 +23,6 @@ export default function HeaderBar (props: WalletDisplayProps) {
           <div className="innerCol">
               <div className="flex">
                 <Link to="/" className="pill-button bg-gray">
-                  <Logo />
                   <span className="ml-0.5em">Te Wāhi Auaha</span>
                 </Link>
                 <DropdownMenu.Root onOpenChange={(isOpen) => setModal(isOpen)} modal={true}>

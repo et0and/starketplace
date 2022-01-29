@@ -1,12 +1,10 @@
 import { Link } from 'react-router-dom';
-import Logo from '../Icons/Logo';
 
 export default function HomeHeader() {
     return (
         <header className="homeHeader">
             <div className="innerCol">
                 <Link to="/" className="pill-button bg-gray">
-                    <Logo />
                     <span className="ml-0.5em">Te Wāhi Auaha</span>
                 </Link>
                 <nav>
