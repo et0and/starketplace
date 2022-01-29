@@ -125,9 +125,9 @@ export default function Home() {
                         </h2>
                         <p>Explore past and present virtual exhibitions hosted by Te Wāhi, or learn more about any upcoming events you can participate in.
                         </p>
-                        <Link to="/exhibition" className='inline-block mt-1 button-sm button-bg-black'>
+                        <a href="/exhibition" className='inline-block mt-1 button-sm button-bg-black'>
                         Learn More about exhibitions
-                        </Link>
+                        </a>
                     </div>
                     <div style={{
                         backgroundImage:"url('/assets/exhibition.jpg')",
