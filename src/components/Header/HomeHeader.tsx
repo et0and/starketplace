@@ -13,7 +13,7 @@ export default function HomeHeader() {
                     <Link to="/about" className='pill-button'>
                         About
                     </Link>
-                    <a href to="https://learn.tewahi.com" className="pill-button bg-yellow ml-0.5em">
+                    <a href="https://learn.tewahi.com" className="pill-button bg-yellow ml-0.5em">
                         Launch Docs
                     </a>
                 </nav>
