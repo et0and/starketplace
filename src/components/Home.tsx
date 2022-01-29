@@ -119,13 +119,13 @@ export default function Home() {
             <section className="layout">
                 <div className="flex justify-between">
                     <div className="measure mr-1em">
-                        <h3 className="gray-title">Online exhibition</h3>
+                        <h3 className="gray-title">Exhibitions</h3>
                         <h2>
-                            A virtual showcase of art made at Te Wāhi and Takapuna Grammar School
+                            Virtual showcases of art made at Te Wāhi and Takapuna Grammar School
                         </h2>
                         <p>Explore past and present virtual exhibitions hosted by Te Wāhi, or learn more about any upcoming events you can participate in.
                         </p>
-                        <a href="/" className='inline-block mt-1 button-sm button-bg-black'>
+                        <a rel="noreferrer" target="_blank" href="https://exhibition.tewahi.com" className='inline-block mt-1 button-sm button-bg-black'>
                         Learn More about exhibitions
                         </a>
                     </div>
