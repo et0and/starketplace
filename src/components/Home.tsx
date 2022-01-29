@@ -1,6 +1,5 @@
 import HomeHeader from './Header/HomeHeader';
 import Footer from './Footer/Footer';
-import Logo from './Icons/LightLogo';
 
 // function padZero(str:string) {
 //     if (str.length < 2) {
