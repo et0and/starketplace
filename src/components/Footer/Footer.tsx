@@ -21,16 +21,12 @@ export default function Footer({className, style}:FooterProps) {
                     </div>
                 </Link>
                 <nav>
-                    <Link to="https://takapuna.school.nz">
-                        <div className='toolbar-link'>
+                    <a href="https://takapuna.school.nz">
                             Takapuna Grammar School
-                        </div>
-                    </Link>
-                    <Link to="mailto:t.hackshaw@tgs.school.nz">
-                        <div className="toolbar-link">
+                    </a>
+                    <a href="mailto:t.hackshaw@tgs.school.nz">
                             Contact
-                        </div>
-                    </Link>
+                    </a>
                     <Link to="/disclaimer">
                         <div className="toolbar-link">
                             Privacy Policy

@@ -64,7 +64,6 @@ export default function Home() {
             <HomeHeader />
             <section className="layout">
                 <div className="hero-rect" style={{backgroundImage: "url('/assets/hero.jpg')"}}>
-                    <Logo className="logo" />
                     <div className="inner-text measure-narrow">
                         <p>Te Wāhi Auaha is a makerspace based at Takapuna Grammar School, Tāmaki Makaurau.
 </p>
