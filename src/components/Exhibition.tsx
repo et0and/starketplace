@@ -1,7 +1,7 @@
 import HomeHeader from './Header/HomeHeader';
 import Footer from './Footer/Footer';
 
-export default function About() {
+export default function Exhibition() {
     return (
         <div className="layout-container">
             <HomeHeader />
