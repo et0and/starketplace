@@ -29,11 +29,11 @@ export default function Footer({className, style}:FooterProps) {
                             Contact
                     </div>
                     </a>
-                    <Link to="/disclaimer">
+                    <a href="https://tewahi.freshstatus.io/">
                         <div className="toolbar-link">
-                            Privacy Policy
+                            Status
                         </div>
-                    </Link>
+                    </a>
                     <a href="https://instagram.com/tewahiauaha">
                         <div className="toolbar-link">
                             Instagram
