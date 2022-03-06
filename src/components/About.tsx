@@ -18,7 +18,7 @@ export default function About() {
                     Presently, it has two Ultimaker 3D printers, a computer suite with Adobe Creative Cloud, a laser cutter/engraver, a t-shirt + mug press, and a wide range of hand tools + materials. 
                 </p>
                 <p>
-                    The space is open by appointment for individual projects. Otherwise, the space hosts ArtLab and Robotics Club every Tuesday after school for students to come and work on their projects. 
+                    The space is open by appointment for individual projects. Otherwise, the space hosts Innovation Workshop and Robotics Club every Thursday after school in PB61 for students to come and work on their projects. 
                 </p><p>Nau mai, haere mai. Welcome to Te Wāhi.</p>
             </div>
             </section>
