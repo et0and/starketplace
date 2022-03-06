@@ -12,7 +12,7 @@ export default function HomeHeader() {
                         About
                     </Link>
                     <a href="https://learn.tewahi.com" className="pill-button bg-yellow ml-0.6em mr-0.6em">
-                        Launch Docs
+                        Learn
                     </a>
                 </nav>
             </div>
