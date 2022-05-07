@@ -141,29 +141,6 @@ export default function Home() {
                 </div>
             </section> 
 
-            <section className="layout">
-                <div className="flex justify-between">
-                    <div className="measure mr-1em">
-                        <h3 className="gray-title">Make something</h3>
-                        <h2>
-                            Submit a file or two and get something made
-                        </h2>
-                        <p>Use our online portal to submit files for printing or lasercutting, or organise a time to meet about your project.
-                        </p>
-                        <a href="https://airtable.com/embed/shr4vQsrJ4hCqmd4K" rel="noreferrer" className="inline-block mt-1 button-sm button-bg-black">Submit a file</a>
-                    </div>
-                    <div style={{
-                        backgroundImage:"url('/assets/make.jpg')",
-                        backgroundSize:"cover",
-                        backgroundPosition:"center",
-                        width: '300px',
-                        height: '300px',
-                        marginTop:'1em'
-                    }}
-                    className="home-section-img ml-1em" />
-                </div>
-            </section>
-
             <Footer className="footer-home"/>
         </div>
     )
