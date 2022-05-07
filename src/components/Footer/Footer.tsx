@@ -29,11 +29,6 @@ export default function Footer({className, style}:FooterProps) {
                             Contact
                     </div>
                     </a>
-                    <a href="https://tewahi.freshstatus.io/">
-                        <div className="toolbar-link">
-                            Status
-                        </div>
-                    </a>
                     <a href="https://instagram.com/tewahiauaha">
                         <div className="toolbar-link">
                             Instagram
