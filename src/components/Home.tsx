@@ -105,7 +105,7 @@ export default function Home() {
                             <a rel="noreferrer" target="_blank" href="https://learn.tewahi.com/projects" className="inline-block mt-1 button-sm button-bg-black">Learn More about projects</a>
                     </div>
                     <div style={{
-                        backgroundImage:"url('/assets/projects.jpg')",
+                        backgroundImage:"url('/assets/project.jpg')",
                         backgroundSize:"cover",
                         backgroundPosition:"center",
                         width: '300px',
