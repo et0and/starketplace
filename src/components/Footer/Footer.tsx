@@ -29,9 +29,9 @@ export default function Footer({className, style}:FooterProps) {
                             Contact
                     </div>
                     </a>
-                    <a href="https://instagram.com/tewahiauaha">
+                    <a href="https://tewahiauaha.statuspage.io">
                         <div className="toolbar-link">
-                            Instagram
+                            Status
                         </div>
                     </a>
 
