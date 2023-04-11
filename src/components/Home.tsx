@@ -102,7 +102,7 @@ export default function Home() {
                         <p>Get started right away with a template project that you can freely customise to your liking. They can be made as simple or complex as you like, and provide a great starting point for learning about the different tools we have available.
                        
                         </p>
-                            <a rel="noreferrer" target="_blank" href="https://learn.tewahi.com/projects" className="inline-block mt-1 button-sm button-bg-black">Learn More about projects</a>
+                            <a rel="noreferrer" target="_blank" href="https://learn.tewahi.com/projects/digitalkaitiaki" className="inline-block mt-1 button-sm button-bg-black">Learn More about projects</a>
                     </div>
                     <div style={{
                         backgroundImage:"url('/assets/project.jpg')",
