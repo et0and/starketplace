@@ -1,62 +1,7 @@
 import HomeHeader from './Header/HomeHeader';
 import Footer from './Footer/Footer';
 
-// function padZero(str:string) {
-//     if (str.length < 2) {
-//         return `0${str}`
-//     }
-//     return str
-// }
-
 export default function Home() {
-
-//     const calculateTimeLeft = () => {
-
-//         const now = new Date();
-//         const offset = new Date().getTimezoneOffset() / 60
-
-//         console.log(offset)
- 
-//         // Get the localized end date for your countdown
-//         const end = new Date(Date.UTC(
-//             2021, // Year
-//             11-1,  // Month (0 is January, so 3 minus 1 is 2, which is March)
-//             23,   // Day
-//             9 + offset,   // Hour
-//             0,    // Minutes
-//             0,    // Seconds
-//             0     // Milliseconds
-//         ));
-
-//         const difference = +end - +now
-
-//         let timeLeft = {
-//             days: '00',
-//             hours: '00',
-//             minutes: '00',
-//             seconds: '00'
-//         };
-    
-//         if (now < end) {
-//           timeLeft = {
-//             days: padZero(`${Math.floor(difference / (1000 * 60 * 60 * 24))}`),
-//             hours: padZero(`${Math.floor((difference / (1000 * 60 * 60)) % 24)}`),
-//             minutes: padZero(`${Math.floor((difference / 1000 / 60) % 60)}`),
-//             seconds: padZero(`${Math.floor((difference / 1000) % 60)}`),
-//           };
-//         }
-
-    
-    //     return timeLeft;
-    //   };
-
-    //   const [timeLeft, setTimeLeft] = useState(calculateTimeLeft());
-
-    //   useEffect(() => {
-    //     setTimeout(() => {
-    //       setTimeLeft(calculateTimeLeft());
-    //     }, 1000);
-    //   });
 
     return (
         <div className="layout-container">
@@ -81,7 +26,7 @@ export default function Home() {
                             <a rel="noreferrer" target="_blank" href="https://learn.tewahi.com" className="inline-block mt-1 button-sm button-bg-black">Learn more about tools</a>
                     </div>
                     <div style={{
-                        backgroundImage:"url('/assets/printer.jpg')",
+                        backgroundImage:"url('/assets/tools.jpg')",
                         backgroundSize:"cover",
                         backgroundPosition:"center",
                         width: '300px',
@@ -105,7 +50,7 @@ export default function Home() {
                             <a rel="noreferrer" target="_blank" href="https://learn.tewahi.com/projects/digitalkaitiaki" className="inline-block mt-1 button-sm button-bg-black">Learn more about projects</a>
                     </div>
                     <div style={{
-                        backgroundImage:"url('/assets/project.jpg')",
+                        backgroundImage:"url('/assets/idea.jpg')",
                         backgroundSize:"cover",
                         backgroundPosition:"center",
                         width: '300px',
@@ -130,7 +75,7 @@ export default function Home() {
                         </a>
                     </div>
                     <div style={{
-                        backgroundImage:"url('/assets/exhibition.jpg')",
+                        backgroundImage:"url('/assets/show.jpg')",
                         backgroundSize:"cover",
                         backgroundPosition:"center",
                         width: '300px',
