@@ -1,5 +1,6 @@
 import HomeHeader from './Header/HomeHeader';
 import Footer from './Footer/Footer';
+import { Analytics } from '@vercel/analytics/react';
 
 export default function Home() {
 
